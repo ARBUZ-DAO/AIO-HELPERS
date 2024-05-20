@@ -1,0 +1,1 @@
+from modules.generate_wallets import generate_wallets
