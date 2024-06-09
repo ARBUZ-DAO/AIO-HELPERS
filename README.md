@@ -19,3 +19,4 @@ python main.py
 <h2>🚨 Modules</h2>
 
 1. Генерация EVM кошельков
+2. Batch Balance Checker
